@@ -1,1 +1,1 @@
-# ANIMAGINE_XL3_0
+# animagine-xl3.0
